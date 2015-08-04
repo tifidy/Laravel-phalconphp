@@ -8,7 +8,7 @@ return new \Phalcon\Config(array(
         'host'        => 'localhost',
         'username'    => 'root',
         'password'    => '',
-        'dbname'      => 'current',
+        'dbname'      => 'bilginew',
         'charset'     => 'utf8',
     ),
     'application' => array(
@@ -20,8 +20,15 @@ return new \Phalcon\Config(array(
         'libraryDir'     => APP_PATH . '/app/library/',
         'cacheDir'       => APP_PATH . '/app/cache/',
         'resourcesDir'   => APP_PATH . '/app/resources/',
+        'libsDir'        => APP_PATH . '/app/libs/',
 
-        'facadesDir'   => APP_PATH . '/app/config/facades/',
+        'vendor'         => APP_PATH . '/vendor/',
+
+        'facadesDir'     => APP_PATH . '/app/config/facades/',
         'baseUri'        => '/current/',
+    ),
+    'session' => array(
+        'id' => 'userid'
+
     )
 ));

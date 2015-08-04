@@ -1,0 +1,13 @@
+{
+    "name": "bilgislem",
+    "authors": [
+        {
+            "name": "Oguzhan Piskin",
+            "email": "oguzhanpiskin@gmail.com"
+        }
+    ],
+    "require": {
+        "windwalker/renderer": "2.*",
+        "illuminate/view": "4.*"
+    }
+}

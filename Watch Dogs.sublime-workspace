@@ -1,0 +1,693 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"$location",
+				"$locationProvider	AngularJS"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"carrier",
+				"carrier1"
+			],
+			[
+				"filter",
+				"filteredOne"
+			],
+			[
+				"selected",
+				"selectedItem"
+			],
+			[
+				"muhas",
+				"muhasebeOnay"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"dis",
+				"displayedCollection"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"route",
+				"routeName"
+			],
+			[
+				"sch",
+				"schooltypePerms"
+			],
+			[
+				"school",
+				"schooltypePerms"
+			],
+			[
+				"per",
+				"permission_id"
+			],
+			[
+				"schooltype",
+				"schooltype_id"
+			],
+			[
+				"root",
+				"rootgroups"
+			],
+			[
+				"con",
+				"controllers"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"sidebar",
+				"sidebar-trigger"
+			],
+			[
+				"border-b",
+				"border-bottom-style"
+			],
+			[
+				"resour",
+				"resourcePrefix"
+			],
+			[
+				"strip",
+				"stripslashes"
+			],
+			[
+				"ec",
+				"enctype	Attr"
+			],
+			[
+				"page",
+				"page_name"
+			],
+			[
+				"grou",
+				"groupPerms"
+			],
+			[
+				"controlle",
+				"controllerInfo"
+			],
+			[
+				"acl",
+				"AclController"
+			],
+			[
+				"Resource",
+				"resourceVerbs"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"get_class",
+				"get_class_methods"
+			],
+			[
+				"permis",
+				"permission1"
+			],
+			[
+				"FETCH_",
+				"cubrid_fetch_row"
+			],
+			[
+				"get",
+				"getSchools"
+			],
+			[
+				"add",
+				"addPoints"
+			],
+			[
+				"selec",
+				"selectedEl"
+			],
+			[
+				"getRow",
+				"getRowX"
+			],
+			[
+				"index",
+				"indexToSwap"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"player",
+				"player"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"ex",
+				"existingPhotos"
+			],
+			[
+				"upload",
+				"uploadDir"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"sc",
+				"schoolPath"
+			],
+			[
+				"sca",
+				"scanned_directory"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 183.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"facade",
+				"Laravel Facade: Cookie"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Start Docblock"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 494.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/current",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/current/public"
+	],
+	"file_history":
+	[
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/current/composer.json",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/current/vendor/autoload.php",
+		"/C/Users/Yayıncılık1/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/server.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/style/less/style-create.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/views/post/new.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/Gulpfile.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/index.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/app/flexie.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/libs/flexie.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/libs/lodash.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/libs/flexie.min.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/routes.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/bootstrap.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/style/less/paper.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/style/less/container.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/factory/osman.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/views/post",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/app/libs/jwt.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/app/controllers/settings.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/app/controllers/auth.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/app/models/User.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/app/libs/uuid.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/app/config/mail.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/app/models/Request.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/piem.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/app/controllers/api.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/gitme/bilpanel/app/models/Menu.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/gitme/bilpanel/app/helper.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/gitme/bilpanel/app/routes.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/gitme/bilpanel/app/views/master/layoutside.blade.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/gitme/bilpanel/app/models/MenuChildren.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/gitme/bilpanel/app/views/master/layout.blade.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/gitme/bilpanel/app/views/sidebar.blade.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/gitme/bilpanel/public/assets/angularjs/app/plugins/bilpanel-grid.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/gitme/bilpanel/app/views/on-kayit/ogrenciler/sinav_onay_list.blade.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/gitme/bilpanel/app/views/root/master/common/style.blade.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/gitme/bilpanel/app/views/root/master/common/stylenew.blade.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/gitme/bilpanel/app/views/master/common/stylenew.blade.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/gitme/bilpanel/public/assets/angularjs/angular.min.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/gitme/bilpanel/public/assets/js/lodash.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/gitme/bilpanel/app/Bilpanel/Modules/On_kayit/Controllers/OnKayitSinavSonucController.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/gitme/bilpanel/app/views/root/kullanicilar/gruplar/kullanici.blade.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/factory/SettingsService.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/controllers/settingsController.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/views/settings/index.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/pm2.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/gitme/bilpanel/public/uploads/profil_photos/2ae6010c0f496ac10dd3731b864c3922a2818cd2.jpg",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/gitme/bilpanel/app/views/master/popuplayout.blade.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/views/login/signup.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/directives/uniqueCheckDirective.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/style/less/grid.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/views/settings/password.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/views/home/index.public.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/style/semantic/src/themes/default/globals/site.variables",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/views/home/index.private.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/style/semantic/src/theme.config",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/style/semantic/src/semantic.less",
+		"/C/Users/Yayıncılık1/AppData/Local/Temp/Temp1_UI-Container-master.zip/UI-Container-master/container.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/semantic.json",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/node_modules/semantic-ui/examples/homepage.css",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/node_modules/semantic-ui/tasks/install.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/node_modules/semantic-ui/semantic.json.example",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/node_modules/semantic-ui/tasks/config/npm/gulpfile.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/node_modules/semantic-ui/src/semantic.less",
+		"/C/Users/Yayıncılık1/AppData/Local/Temp/Temp1_UI-Container-master.zip/UI-Container-master/bower.json",
+		"/C/Users/Yayıncılık1/AppData/Local/Temp/Temp1_UI-Container-master.zip/UI-Container-master/composer.json",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/package.json",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/style/semantic/gulpfile.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/style/semantic/src/theme.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/node_modules/semantic-ui/tasks/build.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/node_modules/semantic-ui/bower.json",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/node_modules/semantic-ui/package.json",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/node_modules/semantic-ui/karma.conf.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/node_modules/semantic-ui/gulpfile.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/style/semantic/LICENSE",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/style/less/custom-material-input.less",
+		"/C/Users/Yayıncılık1/Desktop/hepsisenlk/hepsisenlik/css/main.css",
+		"/C/Users/Yayıncılık1/Downloads/palette.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/public_html/app/application/directives/ng-unique.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/controllers/loginController.js",
+		"/C/Users/Yayıncılık1/AppData/Local/Temp/fz3temp-1/c5807dd0b0e92392bfe47d5a2ada02738e9f8381",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/controllers/MAINCTRL.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/directives/loaderDirective.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/factory/Auth.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/config/Interceptor.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/modules.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/events/RouteEvents.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/directives/navAccessDirective.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/libs/deferredBootstrap.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/config/LocalStorage.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/style/materialize/sass/components/_global.scss",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/controllers/logoutController.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/views/logout/index.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/app/lang/tr.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/views/login/login.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/gitme/bilpanel/.htaccess",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/style/less/ngDialog.less",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/style/less/ngDialog-custom.less",
+		"/C/Users/Yayıncılık1/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/order",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/controllers/appController.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/partials/partials.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/views/one.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/views/public/home/index.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/current/app/controllers/IndexController.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/current/app/routes.php",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/views/temps/two.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/gitme/bilpanel/public/assets/angularjs/ng-paginate/dirPagination.tpl.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/app/libs/validatorjs-extend.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/node_modules/validatorjs/src/validator.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/public_html/app/application/controllers/authController.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/public_html/app/application/services/loginService.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/views/temps/home/index.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/views/temps/login/signup.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/public_html/app/application/app.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/public_html/app/application/services/profileService.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/application/libs/quick-ng-repeat.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/app/libs/validatorjs-unique.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/app/requires/db.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/app/config/app.json",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/config.json",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/app/libs/auth.js",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/nodejs/proje/public/views/temps/login/login.html",
+		"/C/Program Files (x86)/EasyPHP-DevServer-14.1VC11/data/localweb/public_html/app/application/config/rtConfig.js",
+		"/C/Users/Yayıncılık1/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Yayıncılık1/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Yayıncılık1/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-theme"
+	],
+	"find":
+	{
+		"height": 77.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<project>",
+			"C:\\Program Files (x86)\\EasyPHP-DevServer-14.1VC11\\data\\localweb\\gitme",
+			"<project>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"box",
+			"@screen-tablet-min",
+			"@screen-mobile-max",
+			"@screen-lg-min",
+			"@screen-md-min",
+			"@screen-sm-min",
+			"@screen-xs-max",
+			"@pagee-min-height",
+			"@pagee-height",
+			"5",
+			"Aside",
+			"aside",
+			"<ui-view/>",
+			"5",
+			" #box",
+			"#box",
+			"box",
+			"-185",
+			"fluid",
+			"console",
+			"console.log",
+			"test",
+			"navigasyon",
+			"json_de",
+			"json_encode",
+			"list-group-item-",
+			"ul",
+			"reverse",
+			"filteredData",
+			"displayData",
+			"$scope.displayData",
+			"select",
+			"filteredData",
+			"displayData",
+			"select",
+			"username",
+			"check",
+			"api",
+			"handleResults",
+			"then",
+			"config.onError",
+			"onError",
+			"text",
+			" <div class=\"header\">Could you check something!</div>",
+			"password",
+			"PASSWORD",
+			"password",
+			"ff0000",
+			"default",
+			"container",
+			"style/semantic",
+			"validate",
+			"console",
+			"consoole",
+			"background",
+			"ctrl",
+			"addLoadingClass",
+			"div",
+			"emit",
+			".broadcast",
+			"constant",
+			"user",
+			"User",
+			"Session",
+			"tiny",
+			".tiny",
+			"tiny",
+			"user",
+			"h4",
+			"$scope",
+			"li",
+			"me",
+			"Useri",
+			"fruitName",
+			"u",
+			"private",
+			"PRIVATE",
+			"private",
+			"PRIVATE",
+			"private",
+			"\"status\":\"success\",",
+			"args",
+			"$rootScope",
+			"userRole",
+			"rootscope",
+			"console.log",
+			"!}\n",
+			"tpl",
+			"home",
+			"public",
+			".htm",
+			"sdjkfjskdjlfkdsjflkdlsjfksdj",
+			"pagination",
+			"modalInstanceCtrl",
+			"deferred1",
+			"this",
+			"this.rules",
+			"console",
+			"search",
+			"User",
+			"mongoose",
+			"port",
+			"PORT",
+			"port",
+			"PORT",
+			"port",
+			"authorization",
+			"console",
+			"$httpProvider",
+			"263238",
+			"labels",
+			"color",
+			"font",
+			"labels",
+			"tab",
+			"Tab",
+			"Tab Labels",
+			"tint_modifier",
+			"456e6f",
+			"#456e6f",
+			"456e6f",
+			"make",
+			"signup",
+			"</li>",
+			"<li ng-repeat=\"li in lists\">{!li.name!} {!li.email!} {!li.number!}",
+			"</li>",
+			"user",
+			"\">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'KOS'",
+			"'KOŞ'",
+			"'KOS'",
+			"'CAM'",
+			"'ÇAM'",
+			"CAM",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 84.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Watch Dogs.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"facade",
+				"bilpanel\\vendor\\laravel\\framework\\src\\Illuminate\\Support\\Facades\\Event.php"
+			],
+			[
+				"collection",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Support\\Collection.php"
+			],
+			[
+				"collectio",
+				"app\\Bilpanel\\Support\\Collection.php"
+			],
+			[
+				"",
+				"app\\config\\session.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Program Files (x86)\\EasyPHP-DevServer-14.1VC11\\data\\localweb\\current\\Watch Dogs.sublime-workspace"
+			]
+		],
+		"width": 690.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"indent",
+				"indent"
+			]
+		],
+		"width": 808.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
